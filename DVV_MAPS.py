@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# For Ambient Seismic Noise 
+# Script to plot a change in velocity (dv/v) 2d map with color codded inter-station pathways for the region of Turrialba, Costa Rica.  
+
 # In[30]:
 
 
